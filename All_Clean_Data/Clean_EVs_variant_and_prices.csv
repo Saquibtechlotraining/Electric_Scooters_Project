@@ -1,0 +1,437 @@
+name,variant,variant_price,recorded_date,range,company_name
+River Indie,STD,125000,2023-11-10,Under 2 Lakh,River
+Benling India Aura,BASE,94296,2023-11-10,Under 1 Lakh,Benling India
+Benling India Falcon,LA,62200,2023-11-10,Under 70 Thousand,Benling India
+Benling India Falcon,LI,69540,2023-11-10,Under 70 Thousand,Benling India
+Benling India Kriti,LA,56940,2023-11-10,Under 70 Thousand,Benling India
+Benling India Kriti,LI,64151,2023-11-10,Under 70 Thousand,Benling India
+GT Soul,Lead Acid 48V,52861,2023-11-10,Under 70 Thousand,GT Force
+GT Soul,Lead Acid 60V,55561,2023-11-10,Under 70 Thousand,GT Force
+GT Soul,Lithium Ion 48V,71500,2023-11-10,Under 1 Lakh,GT Force
+GT Soul,Lithium Ion 60V,75350,2023-11-10,Under 1 Lakh,GT Force
+GT One,Lead Acid 48V,62850,2023-11-10,Under 70 Thousand,GT Force
+GT One,Lead Acid 60V,65628,2023-11-10,Under 70 Thousand,GT Force
+GT One,Lithium Ion 48V,81755,2023-11-10,Under 1 Lakh,GT Force
+GT One,Lithium Ion 60V,85945,2023-11-10,Under 1 Lakh,GT Force
+GT Prime,Lead Acid 48V,57417,2023-11-10,Under 70 Thousand,GT Force
+GT Prime,Lead Acid 60V,62545,2023-11-10,Under 70 Thousand,GT Force
+GT Prime,Lithium Ion 48V,73778,2023-11-10,Under 1 Lakh,GT Force
+GT Prime,Lithium Ion 60V,77763,2023-11-10,Under 1 Lakh,GT Force
+GT One Plus,Lead Acid,68982,2023-11-10,Under 70 Thousand,GT Force
+GT One Plus,Lithium Ion,86970,2023-11-10,Under 1 Lakh,GT Force
+GT Drive Pro,Lead Acid 48V,67801,2023-11-10,Under 70 Thousand,GT Force
+GT Drive Pro,Lead Acid 60V,70578,2023-11-10,Under 1 Lakh,GT Force
+GT Drive Pro,Lithium Ion 48V,85784,2023-11-10,Under 1 Lakh,GT Force
+GT Drive Pro,Lithium Ion 60V,90530,2023-11-10,Under 1 Lakh,GT Force
+GT Drive Plus,STD,103000,2023-11-10,Under 2 Lakh,GT Force
+GT Flying,Lead Acid 48V,54338,2023-11-10,Under 70 Thousand,GT Force
+GT Flying,Lead Acid 60V,57594,2023-11-10,Under 70 Thousand,GT Force
+GT Flying,Lithium Ion 48V,73778,2023-11-10,Under 1 Lakh,GT Force
+GT Flying,Lithium Ion 60V,77763,2023-11-10,Under 1 Lakh,GT Force
+Maruthisan  MS 3.0,"60 V, 30 Ah",149000,2023-11-10,Under 2 Lakh,Maruthisan
+Maruthisan  MS 3.0,"72 V, 30 Ah",158000,2023-11-10,Under 2 Lakh,Maruthisan
+Sokudo Acute,2.2,126000,2023-11-10,Under 2 Lakh,Sokudo
+Sokudo Acute,STD,133000,2023-11-10,Under 2 Lakh,Sokudo
+Vida V1,PRO,126000,2023-11-10,Under 2 Lakh,Vida
+Silence S01+,STD,650000,2023-11-10,Under 5 Lakh,Silence
+iGowise BeiGo,X4,110000,2023-11-10,Under 2 Lakh,iGowise
+Zelio Gracy,28 Ah 48V,56675,2023-11-10,Under 70 Thousand,Zelio
+Zelio Gracy,28 Ah 60V,59755,2023-11-10,Under 70 Thousand,Zelio
+Zelio Eeva,28 Ah 48 V,54575,2023-11-10,Under 70 Thousand,Zelio
+Zelio Eeva,28 Ah 60V,57475,2023-11-10,Under 70 Thousand,Zelio
+Zelio Eeva ZX,28 Ah 48V,59000,2023-11-10,Under 70 Thousand,Zelio
+Zelio Eeva ZX,28 Ah 60V,62000,2023-11-10,Under 70 Thousand,Zelio
+Zelio Gracy i,28 Ah 48V,56825,2023-11-10,Under 70 Thousand,Zelio
+Zelio Gracy i,28 Ah 60V,59755,2023-11-10,Under 70 Thousand,Zelio
+Joy E-bike Wolf Plus,BASE,116000,2023-11-10,Under 2 Lakh,Joy E-bike
+Joy E-bike Wolf,STD,79900,2023-11-10,Under 1 Lakh,Joy E-bike
+Joy E-bike Gen Nxt Nanu Plus,BASE,112000,2023-11-10,Under 2 Lakh,Joy E-bike
+Joy E-bike Glob,STD,77400,2023-11-10,Under 1 Lakh,Joy E-bike
+Joy GEN NXT Nanu E-Scooter,STD,77400,2023-11-10,Under 1 Lakh,Joy E-bike
+Joy E-bike Mihos,STD,149000,2023-11-10,Under 2 Lakh,Joy E-bike
+M2GO Scooters X1,BASE,111000,2023-11-10,Under 2 Lakh,M2GO
+M2GO Scooters Civitas,STD,127000,2023-11-10,Under 2 Lakh,M2GO
+Kabira Intercity Neo,60 V-35 Ah,67490,2023-11-10,Under 70 Thousand,Kabira
+Kabira Kollegio Neo,48 V- 24 Ah,55790,2023-11-10,Under 70 Thousand,Kabira
+Kabira Kollegio Plus,60 V-35 Ah,65490,2023-11-10,Under 70 Thousand,Kabira
+Kabira Aetos 100,60 V-35 Ah,65490,2023-11-10,Under 70 Thousand,Kabira
+Kabira Hermes 75,60 V-40 Ah,89600,2023-11-10,Under 1 Lakh,Kabira
+Kabira Mobility Kollegio,"48V, 24 Ah",45990,2023-11-10,Under 50 Thousand,Kabira
+Kabira Mobility Intercity Aeolus,"60V, 35 Ah",71490,2023-11-10,Under 1 Lakh,Kabira
+Gravton Quanta,STD,99000,2023-11-10,Under 1 Lakh,Gravton
+Komaki SE,ECO,96968,2023-11-10,Under 1 Lakh,Komaki
+Komaki SE,Sport,130000,2023-11-10,Under 2 Lakh,Komaki
+Komaki SE,Sport Performance Upgrade,138000,2023-11-10,Under 2 Lakh,Komaki
+Komaki LY,STD,95866,2023-11-10,Under 1 Lakh,Komaki
+Komaki XGT X-ONE,STD,45000,2023-11-10,Under 50 Thousand,Komaki
+Komaki XGT X-ONE,"48 V, 28 Ah",47617,2023-11-10,Under 50 Thousand,Komaki
+Komaki XGT X-ONE,"60 V, 28 Ah",50896,2023-11-10,Under 70 Thousand,Komaki
+Komaki XGT X-ONE,"51 V, 28 Ah",65246,2023-11-10,Under 70 Thousand,Komaki
+Komaki XGT X-ONE,"51 V, 27 Ah",66598,2023-11-10,Under 70 Thousand,Komaki
+Komaki XGT X-ONE,"51 V, 33 Ah",73628,2023-11-10,Under 1 Lakh,Komaki
+Komaki XGT X5,GEL,72500,2023-11-10,Under 1 Lakh,Komaki
+Komaki XGT X5,"72 V, 24 Ah",90500,2023-11-10,Under 1 Lakh,Komaki
+Komaki Flora,STD,79000,2023-11-10,Under 1 Lakh,Komaki
+Komaki XGT KM,STD,42500,2023-11-10,Under 50 Thousand,Komaki
+Komaki XGT KM,"60 V, 28Ah",56890,2023-11-10,Under 70 Thousand,Komaki
+Komaki XGT KM,"51 V, 26 Ah",71350,2023-11-10,Under 1 Lakh,Komaki
+Komaki XGT KM,"51 V, 27 Ah",72703,2023-11-10,Under 1 Lakh,Komaki
+Komaki XGT KM,"51 V, 33 Ah",79258,2023-11-10,Under 1 Lakh,Komaki
+Komaki XGT KM,Advance Lithium Technology,93045,2023-11-10,Under 1 Lakh,Komaki
+Komaki Venice,ECO,77000,2023-11-10,Under 1 Lakh,Komaki
+Komaki Venice,Sport Classic,104000,2023-11-10,Under 2 Lakh,Komaki
+Komaki Venice,STD,135000,2023-11-10,Under 2 Lakh,Komaki
+Komaki Venice,Sport,150000,2023-11-10,Under 2 Lakh,Komaki
+Komaki Venice,Ultra Sport,168000,2023-11-10,Under 2 Lakh,Komaki
+Komaki XGT VP,"60 V, 28 Ah",62305,2023-11-10,Under 70 Thousand,Komaki
+Komaki XGT VP,STD,65000,2023-11-10,Under 70 Thousand,Komaki
+Komaki XGT VP,"51 V, 26 Ah",77010,2023-11-10,Under 1 Lakh,Komaki
+Komaki XGT VP,"51 V, 27 Ah",78125,2023-11-10,Under 1 Lakh,Komaki
+Komaki XGT VP,"51 V, 33 Ah",84681,2023-11-10,Under 1 Lakh,Komaki
+Komaki DT 3000,STD,121000,2023-11-10,Under 2 Lakh,Komaki
+Komaki XGT-X3,STD,95000,2023-11-10,Under 1 Lakh,Komaki
+Komaki TN-95,STD,98000,2023-11-10,Under 1 Lakh,Komaki
+Komaki X2 Vogue,STD,47000,2023-11-10,Under 50 Thousand,Komaki
+Komaki X2 Vogue,GEL,62311,2023-11-10,Under 70 Thousand,Komaki
+Komaki X2 Vogue,LION,88500,2023-11-10,Under 1 Lakh,Komaki
+Komaki Super,STD,29500,2023-11-10,Under 30 Thousand,Komaki
+Odysse Electric Racer,STD,85000,2023-11-10,Under 1 Lakh,Odysse Electric
+Odysse Electric Racer,LITE,85000,2023-11-10,Under 1 Lakh,Odysse Electric
+Odysse Electric Hawk,STD,73999,2023-11-10,Under 1 Lakh,Odysse Electric
+Odysse Electric Hawk,LITE,99400,2023-11-10,Under 1 Lakh,Odysse Electric
+Odysse Electric Hawk,PLUS,118000,2023-11-10,Under 2 Lakh,Odysse Electric
+Odysse Electric E2Go,Graphene,63550,2023-11-10,Under 70 Thousand,Odysse Electric
+Odysse Electric E2Go,LITE,71100,2023-11-10,Under 1 Lakh,Odysse Electric
+Odysse Electric E2Go,PLUS,81400,2023-11-10,Under 1 Lakh,Odysse Electric
+Odysse Electric E2Go,PRO,94100,2023-11-10,Under 1 Lakh,Odysse Electric
+Odysse Electric V2,STD,77250,2023-11-10,Under 1 Lakh,Odysse Electric
+Odysse Electric V2 Plus,STD,100000,2023-11-10,Under 1 Lakh,Odysse Electric
+Odysse Electric Trot,STD,99999,2023-11-10,Under 1 Lakh,Odysse Electric
+Simple One,STD,145000,2023-11-10,Under 2 Lakh,Simple Energy
+Techo Electra Raptor,60 V-30 Ah,76178,2023-11-10,Under 1 Lakh,Techo Electra
+Techo Electra Emerge,60 V-30 Ah,73079,2023-11-10,Under 1 Lakh,Techo Electra
+Techo Electra Neo EV,48 V-24 Ah,55053,2023-11-10,Under 70 Thousand,Techo Electra
+Techo Electra Saathi,48 V- 22 Ah,62738,2023-11-10,Under 70 Thousand,Techo Electra
+Yukie Scooters Yuvee,STD,44385,2023-11-10,Under 50 Thousand,Yukie
+Yukie Scooters Shiga,STD,51115,2023-11-10,Under 70 Thousand,Yukie
+Lohia Oma Star,BASE,41444,2023-11-10,Under 50 Thousand,Lohia
+Lohia Oma Star Li,BASE,51750,2023-11-10,Under 70 Thousand,Lohia
+One Moto Electa,BASE,199000,2023-11-10,Under 2 Lakh,One Moto
+One Moto Commuta,BASE,130000,2023-11-10,Under 2 Lakh,One Moto
+One Moto Byka,BASE,180000,2023-11-10,Under 2 Lakh,One Moto
+BGauss D15,I,135000,2023-11-10,Under 2 Lakh,BGauss
+BGauss D15,PRO,136000,2023-11-10,Under 2 Lakh,BGauss
+BGauss C12i Max,EX ,99999,2023-11-10,Under 1 Lakh,BGauss
+BGauss C12i Max,STD,120000,2023-11-10,Under 2 Lakh,BGauss
+Kinetic Green Zing,21 Ah,71500,2023-11-10,Under 1 Lakh,Kinetic
+Kinetic Green Zing,Big B,79500,2023-11-10,Under 1 Lakh,Kinetic
+Kinetic Green Zoom,21 Ah,75100,2023-11-10,Under 1 Lakh,Kinetic
+Kinetic Green Zoom,Big B,82500,2023-11-10,Under 1 Lakh,Kinetic
+HCD India NPS Cargo,48V,54500,2023-11-10,Under 70 Thousand,HCD India
+HCD India NPS Cargo,60V,58500,2023-11-10,Under 70 Thousand,HCD India
+Evtric Motors Ride,STD,67996,2023-11-10,Under 70 Thousand,Evtric
+Evtric Motors Rise,BASE,106000,2023-11-10,Under 2 Lakh,Evtric
+Evtric Motors Axis,STD,75482,2023-11-10,Under 1 Lakh,Evtric
+Evtric Motors Connect,STD,75000,2023-11-10,Under 1 Lakh,Evtric
+Evtric Motors Mighty,STD,92000,2023-11-10,Under 1 Lakh,Evtric
+Ampere Magnus EX,STD,105000,2023-11-10,Under 2 Lakh,Ampere
+Ampere Zeal EX,STD,96690,2023-11-10,Under 1 Lakh,Ampere
+Ampere Primus,STD,146000,2023-11-10,Under 2 Lakh,Ampere
+ADMS Sathi,STD,99000,2023-11-10,Under 1 Lakh,ADMS
+ADMS Maevel,STD,97000,2023-11-10,Under 1 Lakh,ADMS
+ADMS EVA,STD,135000,2023-11-10,Under 2 Lakh,ADMS
+ADMS Rame,STD,125000,2023-11-10,Under 2 Lakh,ADMS
+ADMS Mantra,STD,98000,2023-11-10,Under 1 Lakh,ADMS
+Prevail Electric Elite,STD,129000,2023-11-10,Under 2 Lakh,Prevail Electric
+Prevail Electric Wolfury,ST,89999,2023-11-10,Under 1 Lakh,Prevail Electric
+Prevail Electric Finesse,STD,99999,2023-11-10,Under 1 Lakh,Prevail Electric
+Merico Eagle-100 (4.8),STD,42850,2023-11-10,Under 50 Thousand,Merico
+Merico Eagle-100 (6.0),60V,49781,2023-11-10,Under 50 Thousand,Merico
+Merico Fashia,60V,61311,2023-11-10,Under 70 Thousand,Merico
+Merico Evanka,60V,62505,2023-11-10,Under 70 Thousand,Merico
+Merico Speedstar,60V,53692,2023-11-10,Under 70 Thousand,Merico
+Hero Electric Optima,Cx Dual Battery,107000,2023-11-10,Under 2 Lakh,Hero
+Hero Electric Optima,Cx Single Battery,130000,2023-11-10,Under 2 Lakh,Hero
+Hero Electric Photon,BASE,86391,2023-11-10,Under 1 Lakh,Hero
+Hero Electric NYX,E5,73590,2023-11-10,Under 1 Lakh,Hero
+Hero Electric NYX,Hs500 Er,86540,2023-11-10,Under 1 Lakh,Hero
+Hero Electric Atria,LX,77690,2023-11-10,Under 1 Lakh,Hero
+Hero Electric Eddy,STD,72000,2023-11-10,Under 1 Lakh,Hero
+Geliose Hope,STD,46999,2023-11-10,Under 50 Thousand,Geliose
+Bajaj Chetak,Premium,120000,2023-11-10,Under 2 Lakh,Bajaj
+Wroley E-Scooter Posh,STD,78100,2023-11-10,Under 1 Lakh,Wroley E-Scooter
+Wroley E-Scooter Platina,STD,73700,2023-11-10,Under 1 Lakh,Wroley E-Scooter
+Wroley E-Scooter Mars,STD,66000,2023-11-10,Under 70 Thousand,Wroley E-Scooter
+Okaya Electric Faast F3,STD,125000,2023-11-10,Under 2 Lakh,Okaya
+Okaya Freedum,LI,74899,2023-11-10,Under 1 Lakh,Okaya
+Okaya ClassIQ,150+,74499,2023-11-10,Under 1 Lakh,Okaya
+Okaya  Faast F2F,STD,99950,2023-11-10,Under 1 Lakh,Okaya
+Okaya Electric Motofaast,STD,137000,2023-11-10,Under 2 Lakh,Okaya
+Okaya Faast 4,"48V, 28Ah",133000,2023-11-10,Under 2 Lakh,Okaya
+Okaya Faast F2T,STD,99400,2023-11-10,Under 1 Lakh,Okaya
+Okaya Faast F2B,STD,99950,2023-11-10,Under 1 Lakh,Okaya
+Velev Motors VEV 01,STD,32500,2023-11-10,Under 50 Thousand,Velev Motors
+Velev Motors VIO,STD,52000,2023-11-10,Under 70 Thousand,Velev Motors
+Greta Electric Harper,V2 Lithium+48V,60000,2023-11-10,Under 70 Thousand,Greta Electric
+Greta Electric Harper, V3+ Lithium+60V,92000,2023-11-10,Under 1 Lakh,Greta Electric
+Greta Electric Glide,V3+ 60V 30Ah ,80000,2023-11-10,Under 1 Lakh,Greta Electric
+Greta Electric Glide,V2 48V 24Ah ,80000,2023-11-10,Under 1 Lakh,Greta Electric
+Greta Electric Glide,V2+ 60V 24Ah ,80000,2023-11-10,Under 1 Lakh,Greta Electric
+Greta Electric Glide,V3 48V 30Ah ,80000,2023-11-10,Under 1 Lakh,Greta Electric
+Greta Electric eVespa,V2 Lithium+48V,60000,2023-11-10,Under 70 Thousand,Greta Electric
+Greta Electric eVespa,V3+ Lithium+60V,92000,2023-11-10,Under 1 Lakh,Greta Electric
+Greta Electric Harper ZX,V2 48V-24Ah,41999,2023-11-10,Under 50 Thousand,Greta Electric
+DAO Electric ZOR 405,20AH,88656,2023-11-10,Under 1 Lakh,DAO Electric
+DAO Electric Model 703,30AH,114000,2023-11-10,Under 2 Lakh,DAO Electric
+DAO Electric Vidyut 108,20AH,86449,2023-11-10,Under 1 Lakh,DAO Electric
+EeVe Soul,STD,120000,2023-11-10,Under 2 Lakh,EeVe
+EeVe Xeniaa,STD,79999,2023-11-10,Under 1 Lakh,EeVe
+EeVe Xeniaa,2.0,86999,2023-11-10,Under 1 Lakh,EeVe
+EeVe Wind,"60 V, 27 Ah",59999,2023-11-10,Under 70 Thousand,EeVe
+EeVe Ahava,"60 V, 27 Ah",62499,2023-11-10,Under 70 Thousand,EeVe
+EeVe Atreo,"72V, 27 Ah",68999,2023-11-10,Under 70 Thousand,EeVe
+Evolet Pony,EZ,45999,2023-11-10,Under 50 Thousand,Evolet
+Evolet Pony,Classic,59999,2023-11-10,Under 70 Thousand,Evolet
+Evolet Dhanno,STD,76999,2023-11-10,Under 1 Lakh,Evolet
+Evolet Polo,EZ,51999,2023-11-10,Under 70 Thousand,Evolet
+Evolet Polo,Classic,69999,2023-11-10,Under 70 Thousand,Evolet
+Evolet Derby,EZ,56999,2023-11-10,Under 70 Thousand,Evolet
+Evolet Derby,Classic,78999,2023-11-10,Under 1 Lakh,Evolet
+Hop Electric Leo,Basic,84360,2023-11-10,Under 1 Lakh,Hop Electric
+Hop Electric Leo Extended,BASE,97504,2023-11-10,Under 1 Lakh,Hop Electric
+Hop Electric LYF,Basic,67500,2023-11-10,Under 70 Thousand,Hop Electric
+Hop Electric LYF,Extended,74500,2023-11-10,Under 1 Lakh,Hop Electric
+iVOOMi JeetX,STD,99999,2023-11-10,Under 1 Lakh,iVOOMi
+iVOOMi JeetX,180,104000,2023-11-10,Under 2 Lakh,iVOOMi
+iVOOMi S1,BASE,84999,2023-11-10,Under 1 Lakh,iVOOMi
+iVOOMi City-1,STD,79143,2023-11-10,Under 1 Lakh,iVOOMi
+iVOOMi City,STD,81499,2023-11-10,Under 1 Lakh,iVOOMi
+iVOOMi Jeet,STD,79999,2023-11-10,Under 1 Lakh,iVOOMi
+iVOOMi Jeet,PRO,94999,2023-11-10,Under 1 Lakh,iVOOMi
+GRP EV 11 Mini,BASE,74500,2023-11-10,Under 1 Lakh,GRP EV
+GRP EV 11 Pro,BASE,84000,2023-11-10,Under 1 Lakh,GRP EV
+GRP EV 11 Max,BASE,82000,2023-11-10,Under 1 Lakh,GRP EV
+Crayon Zeez,VRLA,48000,2023-11-10,Under 50 Thousand,Crayon
+Crayon Zeez,Lithium-Ion,58000,2023-11-10,Under 70 Thousand,Crayon
+Crayon Envy,VRLA,53000,2023-11-10,Under 70 Thousand,Crayon
+Crayon Envy,Lithium-Ion,65000,2023-11-10,Under 70 Thousand,Crayon
+TVS iQube Electric,STD,156000,2023-11-10,Under 2 Lakh,TVS
+TVS iQube Electric,S,162000,2023-11-10,Under 2 Lakh,TVS
+TVS X EV,STD,250000,2023-11-10,Under 5 Lakh,TVS
+PURE EV Epluto,BASE,74999,2023-11-10,Under 1 Lakh,PURE EV
+PURE EV ETrance NEO,BASE,78999,2023-11-10,Under 1 Lakh,PURE EV
+PURE EV ETrance NEO,PLUS,93999,2023-11-10,Under 1 Lakh,PURE EV
+PURE EV Epluto 7G,BASE,83999,2023-11-10,Under 1 Lakh,PURE EV
+PURE EV Epluto 7G,PRO,93999,2023-11-10,Under 1 Lakh,PURE EV
+PURE EV Epluto 7G,MAX,115000,2023-11-10,Under 2 Lakh,PURE EV
+SES Eagle,48V - 25Ah,66000,2023-11-10,Under 70 Thousand,SES
+SES Eagle,51V - 30Ah,76000,2023-11-10,Under 1 Lakh,SES
+SES Eagle,48V - 35Ah,77000,2023-11-10,Under 1 Lakh,SES
+SES Fly,48V - 25Ah,57000,2023-11-10,Under 70 Thousand,SES
+SES Tuff,48V - 25Ah,67000,2023-11-10,Under 70 Thousand,SES
+SES Zoom,48V - 25Ah,63000,2023-11-10,Under 70 Thousand,SES
+SES Bold,60V - 30Ah,87000,2023-11-10,Under 1 Lakh,SES
+SES Hobby,STD,90140,2023-11-10,Under 1 Lakh,SES
+Energy Automobile EvOne,STD,60000,2023-11-10,Under 70 Thousand,Energy
+Quantum Elektron,STD,91000,2023-11-10,Under 1 Lakh,Quantum
+Quantum Plasma,STD,125000,2023-11-10,Under 2 Lakh,Quantum
+Quantum Bziness,STD,96499,2023-11-10,Under 1 Lakh,Quantum
+Quantum Milan,STD,89000,2023-11-10,Under 1 Lakh,Quantum
+Tunwal Sport 63 Mini,48V La,49990,2023-11-10,Under 50 Thousand,Tunwal
+Tunwal Roma S,STD,95000,2023-11-10,Under 1 Lakh,Tunwal
+Tunwal T 133,STD,100000,2023-11-10,Under 1 Lakh,Tunwal
+Tunwal Sport 63 Mid,60V Li,71990,2023-11-10,Under 1 Lakh,Tunwal
+Tunwal Mini Lithino,48V,54990,2023-11-10,Under 70 Thousand,Tunwal
+Tunwal Strom ZX,LI,90000,2023-11-10,Under 1 Lakh,Tunwal
+Tunwal Storm ZX Advance 1,STD,115000,2023-11-10,Under 2 Lakh,Tunwal
+Tunwal Storm ZX Advance 2,STD,135000,2023-11-10,Under 2 Lakh,Tunwal
+Tunwal Lithino Li,STD,74990,2023-11-10,Under 1 Lakh,Tunwal
+Warivo Motors Nexa,DS,58300,2023-11-10,Under 70 Thousand,Warivo Motors
+Warivo Motors Nexa,EX,61800,2023-11-10,Under 70 Thousand,Warivo Motors
+Warivo Motors Nexa,STD,65300,2023-11-10,Under 70 Thousand,Warivo Motors
+Warivo Motors Nexa,SX,74300,2023-11-10,Under 1 Lakh,Warivo Motors
+Warivo Motors Queen SX,STD,75300,2023-11-10,Under 1 Lakh,Warivo Motors
+Warivo Motors Enduro,STD,53800,2023-11-10,Under 70 Thousand,Warivo Motors
+Warivo Motors Queen,STD,46800,2023-11-10,Under 50 Thousand,Warivo Motors
+Warivo Motors Smarty,STD,74300,2023-11-10,Under 1 Lakh,Warivo Motors
+BattRE Electric Storie,STD,89600,2023-11-10,Under 1 Lakh,BattRE Electric
+BattRE Electric LoEV,BASE,68900,2023-11-10,Under 70 Thousand,BattRE Electric
+BattRE Electric IOT,BASE,80900,2023-11-10,Under 1 Lakh,BattRE Electric
+BattRE Electric One,STD,73900,2023-11-10,Under 1 Lakh,BattRE Electric
+BattRE Electric GPSIE,STD,73900,2023-11-10,Under 1 Lakh,BattRE Electric
+Stella Automobili Scooters SA 1000,STD,68000,2023-11-10,Under 70 Thousand,Stella Automobili
+Stella Automobili Scooters SA 1000,LI,75000,2023-11-10,Under 1 Lakh,Stella Automobili
+Stella Automobili Scooters SA 2000,STD,86000,2023-11-10,Under 1 Lakh,Stella Automobili
+Stella Automobili Scooters SA 2000,LI,94000,2023-11-10,Under 1 Lakh,Stella Automobili
+Stella Automobili Buzz,STD,95000,2023-11-10,Under 1 Lakh,Stella Automobili
+Fidato Evtech Easy Go,STD,86315,2023-11-10,Under 1 Lakh,Fidato Evtech
+Fidato Evtech EasyGo Plus,STD,95605,2023-11-10,Under 1 Lakh,Fidato Evtech
+Fidato Evtech Future,STD,70300,2023-11-10,Under 1 Lakh,Fidato Evtech
+Fidato Evtech Loder,STD,83490,2023-11-10,Under 1 Lakh,Fidato Evtech
+Fidato Evtech Cutie,BASE,54600,2023-11-10,Under 70 Thousand,Fidato Evtech
+Rugged G1,STD,78498,2023-11-10,Under 1 Lakh,Rugged
+Rugged G1,PLUS,103000,2023-11-10,Under 2 Lakh,Rugged
+Segway E110A,BASE,73937,2023-11-10,Under 1 Lakh,Segway
+Okinawa PraisePro,BASE,99645,2023-11-10,Under 1 Lakh,Okinawa
+Okinawa OKHI 90,STD,186000,2023-11-10,Under 2 Lakh,Okinawa
+Okinawa R30 electric scooter,BASE,61998,2023-11-10,Under 70 Thousand,Okinawa
+Okinawa Ridge,Plus (Without Gps),84606,2023-11-10,Under 1 Lakh,Okinawa
+Okinawa Ridge,Plus ,90606,2023-11-10,Under 1 Lakh,Okinawa
+Okinawa Ridge,100,115000,2023-11-10,Under 2 Lakh,Okinawa
+Okinawa Lite,BASE,66993,2023-11-10,Under 70 Thousand,Okinawa
+Okinawa Dual,100,119000,2023-11-10,Under 2 Lakh,Okinawa
+Okinawa iPraise,BASE,146000,2023-11-10,Under 2 Lakh,Okinawa
+Okinawa iPraise+,STD,146000,2023-11-10,Under 2 Lakh,Okinawa
+Herald E Bike Rider,STD,87660,2023-11-10,Under 1 Lakh,Herald E Bike
+Herald E Bike Royal,STD,91150,2023-11-10,Under 1 Lakh,Herald E Bike
+Herald E Bike Lengend DLX,STD,89410,2023-11-10,Under 1 Lakh,Herald E Bike
+Herald E Bike Lengend Super,STD,93470,2023-11-10,Under 1 Lakh,Herald E Bike
+Herald E Bike Royal Prime,STD,101000,2023-11-10,Under 2 Lakh,Herald E Bike
+Herald E Bike Legend Prime,STD,102000,2023-11-10,Under 2 Lakh,Herald E Bike
+Herald E Bike Royal DLX,STD,111000,2023-11-10,Under 2 Lakh,Herald E Bike
+Ujaas eZy,"48V, 26 Ah",31880,2023-11-10,Under 50 Thousand,Ujaas
+Ujaas eGo LA,48V,34880,2023-11-10,Under 50 Thousand,Ujaas
+Ujaas eGo LA,60V,39880,2023-11-10,Under 50 Thousand,Ujaas
+Ujaas eSPA LA,60V,48174,2023-11-10,Under 50 Thousand,Ujaas
+Ujaas eGo T3,La 72V,59724,2023-11-10,Under 70 Thousand,Ujaas
+Ujaas eGo T3,Li 60V,70224,2023-11-10,Under 1 Lakh,Ujaas
+Ujaas eSPA Li,60V,54880,2023-11-10,Under 70 Thousand,Ujaas
+Ujaas eGo Li,48V,50880,2023-11-10,Under 70 Thousand,Ujaas
+Ujaas eGo Li,60V,53880,2023-11-10,Under 70 Thousand,Ujaas
+Gowel Scooters ZX EV,STD,44456,2023-11-10,Under 50 Thousand,Gowel
+Gowel Scooters ZX EV,LI,57449,2023-11-10,Under 70 Thousand,Gowel
+Ather 450X,2.9 Kwh ,126000,2023-11-10,Under 2 Lakh,Ather
+Ather 450X,Gen 3,128000,2023-11-10,Under 2 Lakh,Ather
+Ather 450X,2.9 Kwh Pro Pack,142000,2023-11-10,Under 2 Lakh,Ather
+Ather 450X,Gen 3 With Pro Pack,149000,2023-11-10,Under 2 Lakh,Ather
+Ather 450S,STD,118000,2023-11-10,Under 2 Lakh,Ather
+Ather 450S,Pro Pack ,132000,2023-11-10,Under 2 Lakh,Ather
+Detel EV Easy Plus,STD,46999,2023-11-10,Under 50 Thousand,Detel EV
+Aeroride E Spark,"60 V, 28 Ah",69445,2023-11-10,Under 70 Thousand,Aeroride
+Aeroride E Spark,"60 V, 30 Ah",83445,2023-11-10,Under 1 Lakh,Aeroride
+Aeroride E Spark,"60 V, 30 Ah With Extra Battery",112000,2023-11-10,Under 2 Lakh,Aeroride
+Aeroride Aero,Lead Acid,61445,2023-11-10,Under 70 Thousand,Aeroride
+Aeroride Aero,Lithium Ion,79445,2023-11-10,Under 1 Lakh,Aeroride
+Aeroride YB2000,"72 V,26 Ah",97100,2023-11-10,Under 1 Lakh,Aeroride
+Aeroride YB2000,"72 V, 30 Ah",102000,2023-11-10,Under 2 Lakh,Aeroride
+Aeroride YB2000,"72 V, 36 Ah",108000,2023-11-10,Under 2 Lakh,Aeroride
+Aeroride YB2000,"72 V, 26 Ah With Extra Battery",129000,2023-11-10,Under 2 Lakh,Aeroride
+YOBykes Drift,BASE,51000,2023-11-10,Under 70 Thousand,YOBykes
+YOBykes Edge,BASE,49000,2023-11-10,Under 50 Thousand,YOBykes
+Raftaar Galaxy,STD,51900,2023-11-10,Under 70 Thousand,Raftaar
+Raftaar Electrica,LA,48540,2023-11-10,Under 50 Thousand,Raftaar
+Raftaar Electrica,LI,70900,2023-11-10,Under 1 Lakh,Raftaar
+Raftaar Lima,STD,68500,2023-11-10,Under 70 Thousand,Raftaar
+Raftaar Lima,STD,68500,2023-11-10,Under 70 Thousand,Raftaar
+Raftaar Cruzer R1,STD,84500,2023-11-10,Under 1 Lakh,Raftaar
+Raftaar Bumblebee,STD,88000,2023-11-10,Under 1 Lakh,Raftaar
+Ola S1 Pro,BASE,140000,2023-11-10,Under 2 Lakh,Ola
+Ola S1 Pro,2 Gen,147000,2023-11-10,Under 2 Lakh,Ola
+Ola S1 Air,3KWH,120000,2023-11-10,Under 2 Lakh,Ola
+Ola Electric S1 X,2KWH,89999,2023-11-10,Under 1 Lakh,Ola
+Ola Electric S1 X,3KWH,99999,2023-11-10,Under 1 Lakh,Ola
+Ola Electric S1 X,PLUS,110000,2023-11-10,Under 2 Lakh,Ola
+Keeway Vieste 300,STD,299000,2023-11-10,Under 5 Lakh,Keeway
+Keeway Vieste 300,Matte Blue,299000,2023-11-10,Under 5 Lakh,Keeway
+Keeway Vieste 300,Matte Black,310000,2023-11-10,Under 5 Lakh,Keeway
+Keeway Vieste 300,Matte White,320000,2023-11-10,Under 5 Lakh,Keeway
+Dynamo RX4,STD,96900,2023-11-10,Under 1 Lakh,Dynamo
+Dynamo RX1,STD,79900,2023-11-10,Under 1 Lakh,Dynamo
+Dynamo X1,STD,49900,2023-11-10,Under 50 Thousand,Dynamo
+Dynamo X2,STD,55900,2023-11-10,Under 70 Thousand,Dynamo
+Dynamo X4,STD,86900,2023-11-10,Under 1 Lakh,Dynamo
+Dynamo XL,STD,65900,2023-11-10,Under 70 Thousand,Dynamo
+Dynamo Smiley,STD,76900,2023-11-10,Under 1 Lakh,Dynamo
+RBSEVA Legend,60V/28Ah,72128,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Legend,60V/24Ah,76237,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Legend,60V/30Ah,94097,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Legend,60V/34Ah,99335,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Rider,48V/28Ah,67237,2023-11-10,Under 70 Thousand,RBSEVA
+RBSEVA Rider,48V/24Ah,77051,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Rider,60V/24Ah,83339,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Rider,60V/30Ah,91200,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Rider Super,60V/28Ah,71838,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Rider Super,60V/24Ah,85947,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Rider Super,60V/30Ah,93807,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Rider Super,60V/34Ah,99045,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Auram,60V/28Ah,79373,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Auram,60V/24Ah,93482,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Auram,60V/30Ah,101000,2023-11-10,Under 2 Lakh,RBSEVA
+RBSEVA Auram,60V/34Ah,107000,2023-11-10,Under 2 Lakh,RBSEVA
+RBSEVA RBS250 Loader,60V/28Ah,78964,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA RBS250 Loader,60V/24Ah,91233,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA RBS250 Loader,60V/30Ah,98065,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA RBS250 Loader,60V/34Ah,103000,2023-11-10,Under 2 Lakh,RBSEVA
+RBSEVA RBSEVA RIO,60V/28Ah,77706,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA RBSEVA RIO,60V/24Ah,91815,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA RBSEVA RIO,60V/30Ah,99675,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA RBSEVA RIO,60V/34Ah,105000,2023-11-10,Under 2 Lakh,RBSEVA
+RBSEVA Royal ZL3,72V/25Ah,105000,2023-11-10,Under 2 Lakh,RBSEVA
+RBSEVA Royal DLX,60V/28Ah,72128,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Royal DLX,60V/24Ah,76237,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Royal DLX,60V/30Ah,94097,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Royal DLX,60V/34Ah,99335,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Legend Super,60V/28Ah,74422,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Legend Super,60V/24Ah,88531,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Legend Super,60V/30Ah,96391,2023-11-10,Under 1 Lakh,RBSEVA
+RBSEVA Legend Super,60V/34Ah,102000,2023-11-10,Under 2 Lakh,RBSEVA
+AMO Electric Jaunty,60V 27 Ah La,59966,2023-11-10,Under 70 Thousand,AMO Electric
+AMO Electric Jaunty,60V 25 Ah Li,76466,2023-11-10,Under 1 Lakh,AMO Electric
+AMO Electric Jaunty,60V 34 Ah Li,90064,2023-11-10,Under 1 Lakh,AMO Electric
+AMO Electric Inspirer,60 V 27 Ah La,51382,2023-11-10,Under 70 Thousand,AMO Electric
+AMO Electric Inspirer,60 V 25 Ah Li,63300,2023-11-10,Under 70 Thousand,AMO Electric
+AMO Electric Inspirer,60 V 34 Ah Li,86626,2023-11-10,Under 1 Lakh,AMO Electric
+AMO Electric Jaunty Plus,"60V, 40 Ah",104000,2023-11-10,Under 2 Lakh,AMO Electric
+AMO Electric Jaunty-3W,STD,78819,2023-11-10,Under 1 Lakh,AMO Electric
+Enigma GT450,PRO,86909,2023-11-10,Under 1 Lakh,Enigma
+Enigma Crink,V1,99000,2023-11-10,Under 1 Lakh,Enigma
+Enigma Ambier N8,STD,105000,2023-11-10,Under 2 Lakh,Enigma
+Super Eco T1,STD,56772,2023-11-10,Under 70 Thousand,Super Eco
+Super Eco S 2,STD,105000,2023-11-10,Under 2 Lakh,Super Eco
+Viertric V4 Eagle,STD,70095,2023-11-10,Under 1 Lakh,Viertric
+Viertric V4 Max,STD,68000,2023-11-10,Under 70 Thousand,Viertric
+Viertric V4 XL,STD,70000,2023-11-10,Under 70 Thousand,Viertric
+Viertric V4 Mist,STD,72000,2023-11-10,Under 1 Lakh,Viertric
+Deltic Drixx,Lead Acid,55490,2023-11-10,Under 70 Thousand,Deltic
+Deltic Drixx,LFP,88490,2023-11-10,Under 1 Lakh,Deltic
+Deltic Trento,STD,127000,2023-11-10,Under 2 Lakh,Deltic
+Deltic Legion,Lead Acid,62490,2023-11-10,Under 70 Thousand,Deltic
+Deltic Legion,LFP,88990,2023-11-10,Under 1 Lakh,Deltic
+Deltic ZGS,STD,95490,2023-11-10,Under 1 Lakh,Deltic
+EVeium CZAR,STD,216000,2023-11-10,Under 5 Lakh,EVeium
+EVeium COMET,STD,192000,2023-11-10,Under 2 Lakh,EVeium
+EVeium COSMO EV,STD,144000,2023-11-10,Under 2 Lakh,EVeium
+BNC Challenger S110,STD,121000,2023-11-10,Under 2 Lakh,BNC
+Eblu Feo,STD,99999,2023-11-10,Under 1 Lakh,Eblu
+Gemopai Ryder,48V/26Ah,70850,2023-11-10,Under 1 Lakh,Gemopai
+Gemopai Ryder,48V/30Ah,75794,2023-11-10,Under 1 Lakh,Gemopai
+Gemopai Ryder,48V/40Ah,84302,2023-11-10,Under 1 Lakh,Gemopai
+Gemopai Astrid Lite,BASE,79999,2023-11-10,Under 1 Lakh,Gemopai
+Gemopai Miso,STD,44000,2023-11-10,Under 50 Thousand,Gemopai
+Gemopai Ryder SuperMax,STD,79999,2023-11-10,Under 1 Lakh,Gemopai
+White Carbon Motors GT5,STD,125000,2023-11-10,Under 2 Lakh,White Carbon Motors
+White Carbon Motors O3,STD,55900,2023-11-10,Under 70 Thousand,White Carbon Motors
+Bounce Infinity E1,With Battery Pack,93386,2023-11-10,Under 1 Lakh,Bounce
+Bounce Infinity E1,Limited Edition,105000,2023-11-10,Under 2 Lakh,Bounce
+Lectrix SX25,STD,54499,2023-11-10,Under 70 Thousand,Lectrix
+Lectrix LXS G 2.0,STD,99999,2023-11-10,Under 1 Lakh,Lectrix
+Lectrix LXS,STD,91253,2023-11-10,Under 1 Lakh,Lectrix
+Avon E Lite,BASE,28000,2023-11-10,Under 30 Thousand,Avon
+Avon E Scoot,BASE,45000,2023-11-10,Under 50 Thousand,Avon
+Avon E Plus,BASE,25000,2023-11-10,Under 5 Lakh,Avon
+Avon E - STAR,48 V 20Ah La,60000,2023-11-10,Under 70 Thousand,Avon
+Avon E Mate,BASE,45000,2023-11-10,Under 50 Thousand,Avon
+Kyte Energy Magnum Pro,STD,80999,2023-11-10,Under 1 Lakh,Kyte Energy
+Li-ions Spock Electric Scooter,BASE,65000,2023-11-10,Under 70 Thousand,Li-ions
+Avera Retrosa,Lite E,88900,2023-11-10,Under 1 Lakh,Avera
+Avera Retrosa,II,128000,2023-11-10,Under 2 Lakh,Avera
+Fujiyama Spectra,48V X 28Ah,51528,2023-11-10,Under 70 Thousand,Fujiyama
+Fujiyama Spectra,60V X 28Ah,54146,2023-11-10,Under 70 Thousand,Fujiyama
+Fujiyama Spectra,60V X 30Ah,77119,2023-11-10,Under 1 Lakh,Fujiyama
+Fujiyama Spectra Pro,48V X 28Ah,54384,2023-11-10,Under 70 Thousand,Fujiyama
+Fujiyama Spectra Pro,60V X 28Ah,57003,2023-11-10,Under 70 Thousand,Fujiyama
+Fujiyama Spectra Pro,60V X 30Ah,79975,2023-11-10,Under 1 Lakh,Fujiyama
+Fujiyama Ozone,60V X 42Ah,99918,2023-11-10,Under 1 Lakh,Fujiyama
+Vegh S25,STD,75999,2023-11-10,Under 1 Lakh,Vegh
+Vegh S60,STD,130000,2023-11-10,Under 2 Lakh,Vegh
+Vegh L25,STD,79999,2023-11-10,Under 1 Lakh,Vegh
