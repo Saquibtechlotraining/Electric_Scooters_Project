@@ -99,7 +99,7 @@ At the heart of our project lies the data collection process, where we employ we
 
 To ensure seamless and efficient data management, we leverage Azure SQL Database, a powerful cloud-based relational database service. Our collected data are stored securely, guaranteeing data availability, scalability, and robustness. This integration facilitates easy data retrieval and forms the foundation for subsequent analysis.
 
-### 3) Data Processing and Analysis
+### 3) Data Processing and Analysis Using Pyspark
     3.1 Data Extraction with Pyspark 
     3.2 Exploratory Data Analysis (EDA)
 
@@ -132,3 +132,15 @@ No project is without its challenges and learning experiences. In this subsectio
 5.2 Future Enhancements
 
 As technology and data science methodologies evolve, so too will our project. We outline potential avenues for future enhancements, including the integration of additional data sources, implementation of more advanced analytics, and exploration of predictive modeling.
+
+### Dashboard View
+
+![Screenshot 2023-12-11 112331](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/e1fd668f-d702-4cc3-a47e-5065d516fb4b)
+
+![Screenshot 2023-12-11 112421](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/d79f5733-64d1-46bb-9936-1caa1d475fbf)
+
+![Screenshot 2023-12-11 112454](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/57c3cd64-3cf5-4658-a67f-2b9ae49b334f)
+
+![Screenshot 2023-12-11 112517](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/2bb40cd4-56be-4567-9888-7ed69f9bfdee)
+
+
