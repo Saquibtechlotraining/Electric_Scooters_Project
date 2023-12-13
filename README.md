@@ -1,5 +1,5 @@
 # Electric Scooters Project
-Dashboard Link: https://www.novypro.com/project/electric-scooters-dashboard
+Dashboard Link: https://www.novypro.com/project/electric-scooters-dashboard-power-bi
 
 Note:- For this Project, I scraped data from the 10th of November, 2023.
 
