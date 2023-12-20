@@ -50,7 +50,7 @@ ScreenShot [Click Here](https://github.com/Saquibtechlotraining/Electric_Scooter
 ### 3) Data Processing and Analysis Using Pyspark
     3.1 Data Preprocessing and Analysis
     3.2 Exploratory Data Analysis (EDA)
-[Cliclk Here](https://github.com/Saquibtechlotraining/Electric_Scooters_Project/tree/main/EDA_by_Pyspark)
+   [Click Here](https://github.com/Saquibtechlotraining/Electric_Scooters_Project/tree/main/EDA_by_Pyspark)
 
 #### 4) Results and Insights
      4.1 Extracted Insights
