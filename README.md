@@ -96,6 +96,8 @@ All Raw Data's file in CSV format : [Click Here](https://github.com/Saquibtechlo
      • Employing Exploratory Data Analysis (EDA) techniques, we visualize and summarize the data. 
      • The process provides an initial glimpse into customer's rating and reviews, electric scooters features and characteristic, availability in different part of India.
 
+Data Preprocessing using Pyspark : [All File Click](https://github.com/Saquibtechlotraining/Electric_Scooters_Project/tree/main/EDA_by_Pyspark)
+
 All Clean Data's file in CSV format : [Click Here](https://github.com/Saquibtechlotraining/Electric_Scooters_Project/tree/main/All_Clean_Data)
 
 ### Pipeline 3: Data Visualization using all Clean Data
