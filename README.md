@@ -109,7 +109,7 @@ In this section, we navigate the technical intricacies of data preprocessing, in
 3.2 Exploratory Data Analysis (EDA)
 With the preprocessed data in hand, we embark on an exploratory journey to uncover hidden patterns, anomalies. Employing Exploratory Data Analysis (EDA) techniques, we visualize and summarize the data. The process provides an initial glimpse into customer's rating and reviews, electric scooters features and characteristic, availability in different part of India.
 
-### 4) 4) Results and Insights
+### 4) Results and Insights
        4.1 Extracted Insights
        4.2 Visualization of Findings
 
@@ -152,7 +152,7 @@ As technology and data science methodologies evolve, so too will our project. We
 
 • Programming Language - Python
 
-• Database - Azure SQL
+• Data Storage - Azure SQL Database
 
 • Data Extraction and Preprocessing - Pyspark
 
