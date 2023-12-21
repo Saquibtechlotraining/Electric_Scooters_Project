@@ -1,7 +1,7 @@
 # Electric Scooters Project
 Dashboard Link: https://www.novypro.com/project/electric-scooters-dashboard-power-bi
 
-Note:- For this project, I scraped data from the website [91wheels](https://www.91wheels.com/electric-scooters) of 10th of November, 2023.
+Note:- For this project, I scraped data on electric scooters from the [91wheels](https://www.91wheels.com/electric-scooters) website as of 10th of November, 2023, focusing on the models currently available for sale in India.
 
 ### • Loading Data also in SQL Server Management Studio(SSMS)
 ScreenShot [Click Here](https://github.com/Saquibtechlotraining/Electric_Scooters_Project/blob/main/Screenshots/Load_Data_in_SQL(SSMS).png)
