@@ -51,7 +51,7 @@ Each stage is meticulously designed to ensure the accuracy, integrity, and relia
 
 • Using this code, extract all EV scooters webpage related to the particular company  - [Click Here](https://github.com/Saquibtechlotraining/Electric_Scooters_Project/blob/main/url_extract_company_wise.py)  (Used for Data Extraction)
 
-• Using this code extract all scooter company's URL - [Click Here](https://github.com/Saquibtechlotraining/Electric_Scooters_Project/blob/main/company_wise_url.py)  (Used for Data Extraction)
+• Using this code, extract all URL from the electric scooters webpage - [Click Here](https://github.com/Saquibtechlotraining/Electric_Scooters_Project/blob/main/company_wise_url.py)  (Used for Data Extraction)
 
 • All electric scooter URL          -  [Click Here](https://github.com/Saquibtechlotraining/Electric_Scooters_Project/blob/main/ALL_EVs_URLS.py)  (Used for Data Extraction)
 
