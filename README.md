@@ -1,5 +1,4 @@
 # Electric Scooters Project
-Dashboard Link: https://www.novypro.com/project/electric-scooters-dashboard-power-bi
 
 Note:- For this project, I scraped data on electric scooters from the [91wheels](https://www.91wheels.com/electric-scooters) website as of 10th of November, 2023, focusing on the models currently available for sale in India.
 
