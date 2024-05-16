@@ -1,5 +1,7 @@
 # Electric Scooters Project
 
+Dasboard Link https://www.novypro.com/profile_about/saquibahmad?Popup=memberProject&Data=1702386090197x145537296668321280
+
 Note:- For this project, I scraped data on electric scooters from the [91wheels](https://www.91wheels.com/electric-scooters) website as of 10th of November, 2023, focusing on the models currently available for sale in India.
 
 ### • Loading Data also in SQL Server Management Studio(SSMS)
